@@ -28,7 +28,6 @@
     <type fullname="Controls.DiamondMiniGame.UIDiamondPageElement" preserve="all" />
     <type fullname="Controls.InAppPurchaseControl.InAppPurchaseControl" preserve="all" />
     <type fullname="Controls.PrivacyPolicyControl.PrivacyPolicyControl" preserve="all" />
-    <type fullname="DataManager" preserve="all" />
     <type fullname="DebugSpeedUp" preserve="all" />
     <type fullname="DG.Tweening.DOTweenAnimation" preserve="all" />
     <type fullname="DialogAsset" preserve="all" />
@@ -58,7 +57,6 @@
     <type fullname="MapModel" preserve="all" />
     <type fullname="PageNavigation" preserve="all" />
     <type fullname="PlaceholderInstaller" preserve="all" />
-    <type fullname="PreBuildDataHook" preserve="all" />
     <type fullname="ScreenFaderClip" preserve="all" />
     <type fullname="ScreenFaderTrack" preserve="all" />
     <type fullname="SettingsControl" preserve="all" />
