@@ -139,6 +139,7 @@
     <type fullname="UIWinFailScreenControl" preserve="all" />
     <type fullname="VideoSceneController" preserve="all" />
     <type fullname="VideoSceneInstaller" preserve="all" />
+    <type fullname="VkBannerTrigger" preserve="all" />
     <type fullname="WaitingUnlockLevelPanel" preserve="all" />
     <type fullname="GameSettingsData" preserve="nothing" serialized="true" />
     <type fullname="I2.Loc.EventCallback" preserve="nothing" serialized="true" />
